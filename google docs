@@ -1,0 +1,93 @@
+Community Hero – AI Powered Civic Problem Solver
+Problem Statement Selected
+Community Hero – Hyperlocal Problem Solver
+
+Solution Overview
+The aim of the Community Hero service is to use an AI-driven platform to connect people with their local government so they can effectively resolve community issues through a seamless communication channel.
+
+There are many civic issues faced by individuals each day in various municipalities, such as potholes, broken street lights, exposed electric wiring, leaking drains, overflowing garbage, and dangerous infrastructure for the public. Because of the frustration and lack of accountability experienced by the public due to unresolved and/or delayed issues, most residents do not know about nor do they trust the proper way to report these types of issues.
+
+Community Hero addresses this issue through the development of a simple and comprehensive digital reporting system by which individuals can submit photos, the exact physical location, and simple descriptions of the issue they wish to resolve.
+
+The Community Hero platform uses AI technology to:
+
+Identify the type of issue
+Determine the degree of urgency
+Assess for any potential public safety concerns
+Identify the appropriate department for resolution
+Determine if the problem is an emergency
+Assist municipalities with expediting the resolution to problems reported
+
+By developing a digital reporting system, Community Hero provides a means for citizens and municipalities to establish a connection through a modern and user-friendly civic dashboard.
+
+Overall, the intent of the Community Hero project team was to create a solution that would not only enable citizens to report issues and have them resolved in a timely manner, but also enable municipalities to increase productivity and improve their processes while integrating hardware and software via an AI-based workflow.
+
+Key Features
+Citizen Side Features
+Simple civic issue reporting system
+Upload photos of problems
+Google Maps based live location selection
+GPS assisted location detection
+AI-generated report review before submission
+Real-time complaint status tracking
+Transparent civic workflow timeline
+Mobile-friendly responsive interface
+Municipality Dashboard Features
+AI-prioritized issue dashboard
+Severity and safety risk scoring
+Emergency escalation recommendations
+Suggested dispatch team allocation
+Duplicate issue detection
+Infrastructure impact analysis
+Estimated repair cost and response prediction
+Resolution workflow management
+AI Features
+AI-powered civic issue classification
+Public safety impact analysis
+Smart municipal department routing
+Duplicate report confidence detection
+Intelligent dispatch recommendations
+Offline-safe fallback civic intelligence engine
+
+Technologies Used
+Google AI Studio
+Gemini API
+React
+TypeScript
+Vite
+Tailwind CSS
+Google Maps Platform
+Google Cloud Deployment Services
+
+Google Technologies Utilized
+Google AI Studio
+Used for designing, developing, testing, and deploying the entire application experience.
+Gemini API
+Used for:
+issue understanding,
+civic report summarization,
+AI-based severity analysis,
+dispatch insights,
+and municipal workflow assistance.
+Google Maps Platform
+Used for:
+live map rendering,
+location pinning,
+GPS support,
+geolocation handling,
+and location search.
+Google Cloud
+Used for hosting and deployment of the live production-ready application.
+
+Innovation & Impact
+Community Hero is a platform that facilitates the collaborative efforts of the community through technology. It combines artificial intelligence (AI) with actual city-based processes to enhance:
+
+- Public Safety
+- Civic Transparency
+- Citizen Participation
+- Faster Infrastructure Response
+
+This platform is intended to help communities establish a framework for future smart cities where AI will allow the city to be more engaging, well-organized, and friendly to its citizens.
+
+Community Hero will enable active community involvement by making the process of reporting on community issues simpler and smarter.
+
